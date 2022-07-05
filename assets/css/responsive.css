@@ -1,0 +1,593 @@
+    /* XL Device :1200px. */
+    
+    @media (min-width: 1200px) and (max-width: 1449px) {}
+    /* LG Device :992px. */
+    
+    @media (min-width: 992px) and (max-width: 1200px) {
+        .slider-content h2 {
+            font-size: 50px;
+            line-height: 58px;
+        }
+        .slider-content h2::before {
+            width: 253px;
+        }
+        .single-img-aec img {
+            width: 120px;
+        }
+        .section-title h3::before {
+            right: 64px;
+        }
+        .cricle-imgg img {
+            right: 60px;
+        }
+        .developer-title h4 {
+            font-size: 49px;
+            line-height: 60px;
+        }
+        .dev-right span {
+            height: 56px;
+            line-height: 56px;
+            margin-bottom: 35px;
+        }
+        .developer-area {
+            padding-bottom: inherit;
+            height: 618px;
+        }
+        .kgkg-2.kgkg {
+            bottom: -20px;
+            right: -20px;
+        }
+        .costomar-sec h3 {
+            font-size: 42px;
+            line-height: 50px;
+        }
+        .contact-form input {
+            padding-left: 34px;
+            font-size: 14px;
+        }
+        .contact-form {
+            padding: 100px 20px;
+        }
+        .cont-btn a {
+            width: 173px;
+        }
+        .contact-area {
+            overflow: hidden !important;
+        }
+        .contact-sl-cont h3 {
+            font-size: 44px;
+        }
+        .contact-sl-cont h3::before {
+            width: 245px;
+            top: 41%;
+            left: 37%;
+        }
+        .sub-content-section h6 {
+            font-weight: 500;
+            font-size: 21px;
+        }
+        .sub-content-section ul li {
+            font-size: 12px;
+        }
+        .ii-imgh-1 {
+            bottom: 68px;
+        }
+        .sub-content-section {
+            padding: 50px 12px;
+        }
+        .slider-content.aaa-1 h2 {
+            font-size: 45px;
+        }
+        .developer-title.tltltl h4 {
+            font-size: 41px;
+        }
+        .book-nowbtn {
+            top: 29px;
+            position: relative;
+        }
+        .contact-sl-cont.tntntn h3::before {
+            width: 268px;
+            top: 34px;
+        }
+        .main-menu ul li a {
+            margin: 0 12px;
+        }
+    }
+    /* MD Device :768px. */
+    
+    @media (min-width: 768px) and (max-width: 991px) {
+        .main-menu ul li a {
+            padding: inherit;
+        }
+        .slider-content h2 {
+            font-size: 40px;
+            line-height: 50px;
+        }
+        .slider-content h2::before {
+            width: 200px;
+        }
+        .single-img-aec img {
+            width: 80px;
+        }
+        .section-title h3 {
+            font-size: 40px;
+            line-height: 52px;
+        }
+        .section-title h3::before {
+            width: 154px;
+            top: 28px;
+            right: 114px;
+        }
+        .cricle-imgg img {
+            right: 36px;
+        }
+        .spansigg.spansigg-12 {
+            left: 30.5%;
+        }
+        .spansigg.spansigg-1 {
+            left: 32%;
+        }
+        .work-title h4 {
+            font-size: 40px;
+            line-height: 50px;
+        }
+        .dev-right span {
+            height: 50px;
+            line-height: 50px;
+            margin-bottom: 20px;
+        }
+        .developer-title h4 {
+            font-size: 30px;
+            line-height: 42px;
+        }
+        .developer-title {
+            padding-top: inherit;
+        }
+        .developer-area {
+            height: 470px;
+        }
+        .slider-title h3 {
+            font-size: 48px;
+        }
+        .book-nowbtn {
+            margin-top: 100px;
+        }
+        .slider-right h3 {
+            font-size: 22px;
+            line-height: 34px;
+        }
+        .slider-right p {
+            font-size: 14px;
+        }
+        .kgkg-2.kgkg {
+            bottom: -20px;
+            right: -20px;
+        }
+        .cont-img {
+            right: 40px;
+        }
+        .cont-img-2 {
+            position: inherit;
+            top: 266px;
+            right: 0;
+            z-index: 99;
+            display: none;
+        }
+        .contact-form {
+            padding: 100px 20px;
+        }
+        .contact-form input {
+            padding-left: 36px;
+        }
+        .cont-btn a {
+            width: 173px;
+        }
+        .contact-area {
+            overflow: hidden !important;
+        }
+        .copy-icons ul li a i {
+            margin-left: 10px;
+        }
+        .copy-text p {
+            font-size: 12px;
+        }
+        .contact-sl-cont h3 {
+            font-size: 42px;
+        }
+        .contact-sl-cont h3::before {
+            width: 230px;
+            top: 43%;
+        }
+        .cc-contact-form {
+            margin-left: inherit;
+        }
+        .costomar-sec h3 {
+            font-size: 34px;
+            line-height: 48px;
+        }
+        .main-menu.mumumu ul li a {
+            font-size: 14px;
+        }
+        .slider-content.aaa-1 h2 {
+            font-size: 33px;
+        }
+        .section-title.lll h3::before {
+            width: 218px;
+            top: 78px;
+            right: 219px;
+        }
+        .section-title.lll p {
+            font-size: 20px;
+        }
+        .developer-title.tltltl h4 {
+            font-size: 29px;
+        }
+        .slider-title.slslsls h3 {
+            font-size: 30px;
+            line-height: 44px;
+        }
+        .book-nowbtn {
+            top: -55px;
+            position: relative;
+        }
+        .slider-right h3 {
+            font-size: 18px;
+            line-height: 34px;
+        }
+        .slider-right p {
+            font-size: 12px;
+        }
+        .cont-btn a.clclcl {
+            font-size: 10px;
+        }
+        .contact-sl-cont.tntntn h3::before {
+            width: 268px;
+            top: 34px;
+        }
+        .border-btn {
+            font-size: 13px;
+            width: 122px;
+        }
+        .contact-number-right .nice-select {
+            width: 96px;
+        }
+        .contact-number-right .nice-select .current {
+            font-size: 13px;
+        }
+        .nice-select::after {
+            right: 13px;
+            top: 56%;
+            width: 8px;
+            height: 8px;
+        }
+        .contact-number-right .nice-select {
+            padding-left: 20px;
+            padding-right: 10px;
+            line-height: 41px;
+        }
+        .main-menu ul li a {
+            font-size: 16px;
+            margin: 0 8px;
+        }
+        .contact-number-right .nice-select {
+            left: -12px;
+        }
+        .border-btn.bttt {
+            width: 110px;
+        }
+        .costomar-sec.cscsc h3 {
+            font-size: 35px;
+        }
+        .dev-right span {
+            font-size: 14px;
+        }
+        .spansigg.spansigg-6 {
+            top: 304px;
+            left: -1%;
+        }
+        .slider-content.aaa-1 h2 {
+            line-height: 44px;
+            margin-bottom: 30px;
+        }
+    }
+    /* SM Small Device :320px. */
+    
+    @media only screen and (min-width: 320px) and (max-width: 767px) {
+        .hamburger-menu {
+            display: block;
+        }
+        .main-menu.open {
+            -webkit-transform: translateX(0);
+            -ms-transform: translateX(0);
+            transform: translateX(0);
+        }
+        .main-menu {
+            position: fixed;
+            height: 100%;
+            width: 100%;
+            left: 0;
+            top: 0;
+            padding: 120px 0 0 0;
+            background-color: #fff;
+            z-index: -1;
+            -webkit-transform: translateX(-100%);
+            -ms-transform: translateX(-100%);
+            transform: translateX(-100%);
+            -webkit-transition: 0.4s;
+            -o-transition: 0.4s;
+            transition: 0.4s;
+        }
+        .main-menu li {
+            display: block !important;
+            text-align: center;
+            max-width: 720px;
+            margin: 0 auto;
+            line-height: 40px;
+        }
+        .main-menu li a.nav-link {
+            padding: 0;
+            display: inline-flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .img-sec-ri {
+            position: inherit;
+            top: inherit;
+            right: inherit;
+            width: inherit;
+            z-index: inherit;
+            margin-top: 30px;
+        }
+        .slider-content h2 {
+            font-size: 42px;
+            line-height: 50px;
+        }
+        .slider-content h2::before {
+            width: 211px;
+        }
+        .slider-content p {
+            font-size: 15px;
+        }
+        .section-title h3 {
+            font-size: 28px;
+            line-height: 39px;
+        }
+        .section-title h3::before {
+            width: 118px;
+            top: 16px;
+            right: 5px;
+        }
+        .spansigg {
+            position: inherit;
+        }
+        .services-img {
+            position: relative;
+            margin-top: 50px;
+            margin-bottom: inherit;
+        }
+        .single-imggg {
+            margin-top: 30px;
+        }
+        .spansigg {
+            margin: auto;
+            margin-bottom: 30px;
+        }
+        .work-title h4 {
+            font-size: 36px;
+            line-height: 50px;
+        }
+        .work-title {
+            text-align: center;
+        }
+        .right-imgg {
+            margin-top: 30px;
+            margin-bottom: 30px;
+        }
+        .dev-right span.span-22 {
+            margin-right: inherit;
+        }
+        .dev-imgg {
+            position: absolute;
+            left: 0;
+            width: 100%;
+            top: 115px;
+        }
+        .dev-right span {
+            font-size: 14px;
+            height: 50px;
+            line-height: 50px;
+            margin-bottom: 20px;
+        }
+        .developer-title h4 {
+            font-size: 38px;
+            line-height: 50px;
+            margin-top: 30px;
+        }
+        .developer-title {
+            padding-left: inherit;
+            padding-top: 50px;
+            text-align: center;
+        }
+        .developer-area {
+            padding-bottom: inherit;
+            height: auto;
+        }
+        .slider-title h3 {
+            font-size: 25px;
+            line-height: 40px;
+        }
+        .slider-title h3::before {
+            width: 97px;
+            top: 14px;
+            right: 1%;
+        }
+        .slider-right h3 {
+            font-size: 24px;
+        }
+        .book-nowbtn {
+            margin-top: 30px;
+            margin-bottom: 68px;
+        }
+        .kgkg-2.kgkg {
+            bottom: -20px;
+            right: -20px;
+        }
+        .slider-right h3 {
+            line-height: 35px;
+        }
+        .costomar-sec h3 {
+            font-size: 35px;
+            line-height: 42px;
+        }
+        .costomar-sec {
+            text-align: center;
+        }
+        .right-casto {
+            padding: 0px 30px;
+        }
+        .contact-form {
+            padding: 100px 20px;
+        }
+        .cont-btn a {
+            font-size: 12px;
+            width: 135px;
+            height: 50px;
+            margin-right: 36px;
+        }
+        .cont-btn::before {
+            left: 47%;
+        }
+        .contact-area {
+            height: auto;
+        }
+        .cont-img-2 {
+            position: absolute;
+            top: 75px;
+            right: -117px;
+            z-index: 99;
+        }
+        .contact-area::before {
+            width: 100%;
+        }
+        .footer-widget {
+            margin-bottom: 40px;
+        }
+        .footer-wid-menu {
+            margin-bottom: 40px;
+        }
+        .cont-img {
+            position: inherit;
+            top: inherit;
+            left: inherit;
+            z-index: inherit;
+            width: 90%;
+        }
+        .footer-wid-menu ul li a {
+            font-size: 15px;
+        }
+        .copy-icons {
+            float: inherit;
+        }
+        .copy-text p {
+            font-size: 17px;
+            text-align: center;
+        }
+        .copy-icons {
+            float: inherit;
+            text-align: center;
+            position: relative;
+            top: -64px;
+        }
+        .copy-text {
+            position: relative;
+            top: 45px;
+            width: 361px;
+            margin: auto;
+        }
+        .main-menu.open ul {
+            background: #fff;
+            height: 1000px;
+            width: 100%;
+            z-index: 9;
+        }
+        .top-header.sticky .hamburger-menu {
+            top: 29px;
+        }
+        .contact-area {
+            overflow: hidden !important;
+        }
+        .ptptpt {
+            position: relative;
+        }
+        .top-header.sticky .hamburger-menu {
+            top: -50px;
+        }
+        .contact-sl-cont h3 {
+            font-weight: 500;
+            font-size: 40px;
+        }
+        .contact-sl-cont h3::before {
+            width: 213px;
+            top: 41%;
+            left: 21%;
+        }
+        .sub-content {
+            margin: inherit;
+            background: #F6C215;
+            position: relative;
+            padding: inherit;
+        }
+        .cc-contact-form {
+            background: #fff;
+            padding: 78px 50px;
+            margin-left: inherit;
+            border-radius: 0px 8px 8px 0px;
+            height: auto;
+            padding-bottom: 152px;
+            margin-bottom: 50px;
+        }
+        .slider-content.aaa-1 h2 {
+            font-size: 27px;
+            line-height: 41px;
+        }
+        .section-title.lll h3::before {
+            width: 218px;
+            top: 52px;
+            right: 19%;
+        }
+        .developer-title.tltltl h4 {
+            font-size: 31px;
+        }
+        .slider-title.slslsls h3 {
+            font-size: 28px;
+        }
+        .developer-area {
+            padding-bottom: inherit;
+            height: auto;
+            padding-bottom: 50px;
+        }
+        .slider-area-active {
+            overflow: hidden !important;
+        }
+        .sliderr-areaa-active-2 {
+            overflow: hidden !important;
+        }
+        .contact-sl-cont.tntntn h3::before {
+            width: 232px;
+            top: 34px;
+        }
+        .slider-right h3 {
+            font-size: 18px;
+        }
+        .book-nowbtn {
+            top: inherit;
+            position: relative;
+        }
+        .contact-number-right .nice-select {
+            top: -58px;
+            left: 38%;
+        }
+    }
+    /* SM Small Device :550px. */
+    
+    @media only screen and (min-width: 576px) and (max-width: 767px) {}
